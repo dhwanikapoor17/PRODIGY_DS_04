@@ -1,0 +1,6 @@
+Project Overview
+The goal of this project is to analyze traffic accident data to understand patterns and trends, identify accident hotspots, and provide actionable insights that can help in enhancing road safety measures.
+Methodology
+Data Cleaning: Handled missing values, converted data types, and ensured consistency across the dataset.
+Exploratory Data Analysis (EDA): Analyzed the distribution and relationships of key variables to uncover patterns and insights.
+Visualization: Created various plots and charts to visually represent the data and findings.
